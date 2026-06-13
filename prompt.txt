@@ -1,7 +1,6 @@
 # Aaron Delgado - Adirondack Chair Project: Home Woodworking Planning & Execution
 # Task Category: home_and_organization
 # Total Turns: 47 + 1 Final End Prompt
-# Format: Natural conversation, 2 lines maximum per turn
 # Persona: Aaron Delgado
 
 ---
@@ -12,10 +11,10 @@ Turn 1:
 I've been thinking about the Adirondack chair my dad's toolkit has been waiting for. Let me pull up those sketches on the iPad and see what I actually drew three months ago.
 
 Turn 2:
-What's your timeline pressure looking like right now? I need to check when the Fall Tournament schedule starts at Cedar Ridge and map that against my Sundays.
+Can you check when the Fall Tournament schedule starts at Cedar Ridge and map that against my Sundays?
 
 Turn 3:
-That's the constraint I'm working with. Let me block three hours on Sunday mornings in my calendar starting late September and see if that holds up.
+That's the constraint I'm working with. Go ahead and block three hours on Sunday mornings starting in late September so I can see if that schedule holds up.
 
 Turn 4:
 Let's start with what the chair actually needs. I'm going to measure myself in my current chair to get the right proportions since I'm six-foot-two.
@@ -30,7 +29,7 @@ Turn 7:
 Once I have the full picture of what's coming, I'll know exactly how much bandwidth I have. Let me create a master calendar that shows studio, dojo, and personal projects all together.
 
 Turn 8:
-That way nothing surprises me halfway through. Let me sync that with Megan's calendar too so she can see the full picture before we commit.
+That way nothing surprises me halfway through. Let me share the schedule with Megan so we can compare calendars before we commit.
 
 ---
 
@@ -43,7 +42,7 @@ Turn 10:
 Four hundred dollars max, including hardware and finish. Let me create a new Google Sheet just for this project to track costs as I go.
 
 Turn 11:
-White pine or cedar for the frame? I'm going to call the specialty lumber yards this week and ask what they have in stock and pricing.
+White pine or cedar for the frame? Help me put together a list of questions for the specialty lumber yards and keep track of the pricing once I have it.
 
 Turn 12:
 I want marine-grade stain or exterior polyurethane. Let me check what Home Depot has in stock online and compare it to the specialty options I find.
@@ -55,7 +54,7 @@ Turn 14:
 That's tight but doable for white pine and decent hardware. Let me make a list of suppliers within thirty miles and check their websites for current inventory.
 
 Turn 15:
-I can drive if it's worth it. Let me call Cedar Ridge Lumber first thing Monday morning and ask about their eight-quarter and five-quarter stock.
+I can drive if it's worth it. Set me a reminder to call Cedar Ridge Lumber first thing Monday morning about their eight-quarter and five-quarter stock.
 
 Turn 16:
 I'll call them this week and confirm stock and pricing. Let me update my project sheet with supplier contact information once I have the numbers.
@@ -86,7 +85,7 @@ Turn 23:
 That's the teaching moment right there. Kyle will destroy something so he stays in the house, but Hannah gets to see woodworking as a real skill.
 
 Turn 24:
-I want to document this too, not a whole build log but reference photos. Let me create a folder on my phone for garage photos and set a recurring reminder to back them up.
+Help me organize a folder for garage reference photos and remind me to back them up regularly.
 
 Turn 25:
 Low-friction capture process means phone photos as I go, maybe a short video of the first joint. Let me set up a simple naming system so I know what each photo is.
@@ -120,7 +119,7 @@ Turn 33:
 Checking them for defects and movement, then milling them flat and true. Let me research local woodworkers who do milling services and get three quotes.
 
 Turn 34:
-Renting runs about eighty dollars a day. Let me call the local tool rental place and see what their planer availability looks like for that Saturday.
+Renting runs about eighty dollars a day. Set me a reminder to call the local tool rental place and ask about planer availability for that Saturday.
 
 Turn 35:
 Do I want the consistency of someone who does this every day or rent and learn? Let me think about whether I'll use a planer again in the next few years.
@@ -130,7 +129,7 @@ Do I want the consistency of someone who does this every day or rent and learn? 
 PHASE 5: JOINERY & ASSEMBLY PLANNING (Turns 36-42)
 
 Turn 36:
-Familiar with the tool. Let me go ahead and reserve the rental planer for the Saturday of garage clearing instead of hiring it out.
+Familiar with the tool. Once we’ve confirmed the date, remind me to reserve the rental planer for the garage-clearing Saturday.
 
 Turn 37:
 That works. Megan can help feed boards through while I'm managing the planer. Let me give her a heads-up about what we're doing that Saturday so she's ready to help.
@@ -174,8 +173,7 @@ Four Sundays to assemble and clamp everything, let glue cure between sessions. L
 FINAL END PROMPT:
 
 Turn 48:
-Alright, I've got the full plan locked in. Materials ordered from Timber Lodge for delivery next week, garage clearing scheduled for Saturday with Megan, planer rental confirmed for that afternoon, and the Google Sheet is tracking everything. Let me send my mom a message and tell her I'm finally building the chair with dad's tools.
-
+Alright, I've got the full plan mapped out and the project sheet is keeping everything organized. Now go ahead and draft a message to my mom letting her know I'm finally putting Dad's tools to use and building the Adirondack chair I've been talking about for months.
 ---
 
 END PROMPT.TXT
