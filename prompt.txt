@@ -1,0 +1,181 @@
+# Aaron Delgado - Adirondack Chair Project: Home Woodworking Planning & Execution
+# Task Category: home_and_organization
+# Total Turns: 47 + 1 Final End Prompt
+# Format: Natural conversation, 2 lines maximum per turn
+# Persona: Aaron Delgado
+
+---
+
+PHASE 1: PROJECT INITIATION & CONSTRAINTS (Turns 1-8)
+
+Turn 1:
+I've been thinking about the Adirondack chair my dad's toolkit has been waiting for. Let me pull up those sketches on the iPad and see what I actually drew three months ago.
+
+Turn 2:
+What's your timeline pressure looking like right now? I need to check when the Fall Tournament schedule starts at Cedar Ridge and map that against my Sundays.
+
+Turn 3:
+That's the constraint I'm working with. Let me block three hours on Sunday mornings in my calendar starting late September and see if that holds up.
+
+Turn 4:
+Let's start with what the chair actually needs. I'm going to measure myself in my current chair to get the right proportions since I'm six-foot-two.
+
+Turn 5:
+The sketches show a curved back, integrated armrests, and a seat that's angled. Let me count the actual components I'd need to cut and make a rough list.
+
+Turn 6:
+I need to know if Lantern Keeper has any deadlines coming up that could conflict. Let me check my indie project milestones for the next three months.
+
+Turn 7:
+Once I have the full picture of what's coming, I'll know exactly how much bandwidth I have. Let me create a master calendar that shows studio, dojo, and personal projects all together.
+
+Turn 8:
+That way nothing surprises me halfway through. Let me sync that with Megan's calendar too so she can see the full picture before we commit.
+
+---
+
+PHASE 2: MATERIAL RESEARCH & SOURCING (Turns 9-18)
+
+Turn 9:
+What's my material budget looking like? Let me pull up my monthly budget spreadsheet and see what room I have for this project.
+
+Turn 10:
+Four hundred dollars max, including hardware and finish. Let me create a new Google Sheet just for this project to track costs as I go.
+
+Turn 11:
+White pine or cedar for the frame? I'm going to call the specialty lumber yards this week and ask what they have in stock and pricing.
+
+Turn 12:
+I want marine-grade stain or exterior polyurethane. Let me check what Home Depot has in stock online and compare it to the specialty options I find.
+
+Turn 13:
+Let me also check Timber Lodge's website and see if they have what I need, then I'll compare pricing between the two before ordering.
+
+Turn 14:
+That's tight but doable for white pine and decent hardware. Let me make a list of suppliers within thirty miles and check their websites for current inventory.
+
+Turn 15:
+I can drive if it's worth it. Let me call Cedar Ridge Lumber first thing Monday morning and ask about their eight-quarter and five-quarter stock.
+
+Turn 16:
+I'll call them this week and confirm stock and pricing. Let me update my project sheet with supplier contact information once I have the numbers.
+
+Turn 17:
+Once I have quotes, I need to do the math and see if this actually fits the four hundred dollar budget. Let me create a cost breakdown sheet so I can see where the money goes.
+
+Turn 18:
+If materials run over, I'll know what I can cut back on. Let me be realistic about what matters for quality and what's just nice to have.
+
+---
+
+PHASE 3: FAMILY COMMUNICATION & PLANNING (Turns 19-27)
+
+Turn 19:
+Before I order anything, I need to walk through the garage setup with Megan. Let me schedule a conversation with her this weekend about the project timeline.
+
+Turn 20:
+Yeah, I need to present this as a plan not just an idea I'm doing. Let me write down what I'm actually asking from her so the conversation is clear.
+
+Turn 21:
+Hannah actually asked about watching me work, didn't she? Let me think through what the safety setup looks like and when it makes sense for her to be in the garage.
+
+Turn 22:
+I'm not making child labor but I'm not excluding her either. Let me talk to Hannah directly and ask what she wants to do and what scares her about the garage.
+
+Turn 23:
+That's the teaching moment right there. Kyle will destroy something so he stays in the house, but Hannah gets to see woodworking as a real skill.
+
+Turn 24:
+I want to document this too, not a whole build log but reference photos. Let me create a folder on my phone for garage photos and set a recurring reminder to back them up.
+
+Turn 25:
+Low-friction capture process means phone photos as I go, maybe a short video of the first joint. Let me set up a simple naming system so I know what each photo is.
+
+Turn 26:
+That's the approach. Let me decide right now that I'll back up photos every Sunday evening before I leave the garage.
+
+Turn 27:
+Once I have material costs locked down, I can build the timeline. Let me wait for the lumber calls to come back before I commit to September start.
+
+---
+
+PHASE 4: WORKSPACE PREPARATION (Turns 28-35)
+
+Turn 28:
+What about workspace setup? The bench, the tools, staging for components, fasteners. Let me walk through the garage and take some photos of the current state.
+
+Turn 29:
+The bench is already set, but I need to clear the rest of the garage first. Let me make a checklist of what stays, what moves, and what needs organizing before I start.
+
+Turn 30:
+That's a full afternoon. Let me ask Megan if she can help me clear the garage the Saturday before I start the project.
+
+Turn 31:
+We'll do it together. She knows the garage better than I do and she'll see what makes sense. Let me schedule that Saturday afternoon with her once we confirm the lumber order date.
+
+Turn 32:
+Fair trade. Once the space is set, what's the actual first step in prepping the boards? Let me check if I need to rent a thickness planer or have someone else mill the lumber.
+
+Turn 33:
+Checking them for defects and movement, then milling them flat and true. Let me research local woodworkers who do milling services and get three quotes.
+
+Turn 34:
+Renting runs about eighty dollars a day. Let me call the local tool rental place and see what their planer availability looks like for that Saturday.
+
+Turn 35:
+Do I want the consistency of someone who does this every day or rent and learn? Let me think about whether I'll use a planer again in the next few years.
+
+---
+
+PHASE 5: JOINERY & ASSEMBLY PLANNING (Turns 36-42)
+
+Turn 36:
+Familiar with the tool. Let me go ahead and reserve the rental planer for the Saturday of garage clearing instead of hiring it out.
+
+Turn 37:
+That works. Megan can help feed boards through while I'm managing the planer. Let me give her a heads-up about what we're doing that Saturday so she's ready to help.
+
+Turn 38:
+Before I cut anything though, I'm testing joints on scrap. Let me check if I have scrap pine from any previous projects or if I need to order test boards.
+
+Turn 39:
+Dowels for now. Mortise and tenon is more elegant but it's also more work and I have a timeline. Let me decide right now that dowels are the way to go.
+
+Turn 40:
+That's a reasonable call given my constraints. Let me order the dowels and glue when I order the main lumber so everything arrives at once.
+
+Turn 41:
+Yeah, I want to know the drilling is right, the dowels fit properly, the glue holds. Let me plan to do my test joint the Saturday evening after I clear the garage.
+
+Turn 42:
+How long does the glue cure before I can stress it? Let me check the instructions on the polyurethane glue I already have in the garage.
+
+---
+
+PHASE 6: EXECUTION TIMELINE (Turns 43-47)
+
+Turn 43:
+The polyurethane glue is about four hours to set hard, overnight to full cure. Let me plan to test stress the joint Sunday morning before I start cutting components.
+
+Turn 44:
+Once dry-fit passes, then I move to actual assembly. Let me create a detailed assembly order diagram so I know exactly what goes together when.
+
+Turn 45:
+What's the assembly order after frame? Seat first or back first? Let me sketch this out on paper so I can visualize how the chair comes together.
+
+Turn 46:
+Seat first. The frame and seat make the chair functional. Let me note this sequence in my project sheet so I don't second-guess myself halfway through.
+
+Turn 47:
+Four Sundays to assemble and clamp everything, let glue cure between sessions. Let me mark those Sundays on my calendar and label them assembly weeks one through four.
+
+---
+
+FINAL END PROMPT:
+
+Turn 48:
+Alright, I've got the full plan locked in. Materials ordered from Timber Lodge for delivery next week, garage clearing scheduled for Saturday with Megan, planer rental confirmed for that afternoon, and the Google Sheet is tracking everything. Let me send my mom a message and tell her I'm finally building the chair with dad's tools.
+
+---
+
+END PROMPT.TXT
