@@ -23,7 +23,6 @@ Aaron plans and executes the construction of an Adirondack chair using inherited
 ## Action-Oriented Approach
 
 Each turn includes a concrete action:
-- Making phone calls
 - Checking inventory and pricing
 - Scheduling with family
 - Creating project documentation
