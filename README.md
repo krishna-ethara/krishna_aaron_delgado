@@ -1,63 +1,67 @@
-# Aaron Delgado - Adirondack Chair Project
+# Aaron Delgado – Adirondack Chair Project
 
 ## Task Information
 
-**Persona**: Aaron Delgado  
-**Task Category**: home_and_organization  
-**Total Turns**: 47 + 1 Final End Prompt = 48  
-**Format**: Natural conversation flow, 2 lines maximum per turn  
+- **Persona:** Aaron Delgado
+- **Task Category:** home_and_organization
+- **Total Turns:** 48 (47 turns + 1 final end prompt)
+- **Format:** Natural conversational flow with concise turns
 
 ## Task Overview
 
-Aaron plans and executes the construction of an Adirondack chair using inherited tools from his father. The task spans workspace organization, material sourcing, project planning, family involvement coordination, and actual woodworking execution over a 6-8 week period.
+This task follows Aaron as he plans and prepares to build an Adirondack chair using tools inherited from his father. Across the conversation, he balances project planning, budgeting, material sourcing, workspace organization, family coordination, and execution scheduling while fitting the build around his existing commitments.
 
 ## Key Constraints
 
-- Three hours per Sunday for active work
-- October tournament season at Cedar Ridge Martial Arts Academy
-- $400 maximum budget for materials and hardware
-- Hannah (age 7) wants to watch and learn
-- Winter weather considerations for finishing in Portland
-- Balanced with Lantern Keeper indie project timeline
+- Limited to approximately three hours of work on Sunday mornings
+- Must coordinate around the Cedar Ridge fall tournament schedule
+- Maximum materials and hardware budget of **$400**
+- Wants to involve Hannah safely in the project while keeping Kyle out of the workspace
+- Needs to balance the build with ongoing Lantern Keeper milestones
+- Prefers careful planning and documentation before committing to major decisions
 
-## Action-Oriented Approach
+## Action-Oriented Workflow
 
-Each turn includes a concrete action:
-- Checking inventory and pricing
-- Scheduling with family
-- Creating project documentation
-- Planning timelines
-- Confirming orders and reservations
+The conversation is driven by concrete actions, including:
+
+- Reviewing existing chair sketches
+- Creating calendars and project timelines
+- Tracking budgets and material costs
+- Researching suppliers and comparing options
+- Setting reminders for important follow-ups
+- Planning workspace organization and tooling
+- Coordinating schedules with family members
+- Documenting assembly steps and project progress
 
 ## Persona Alignment
 
-The task maintains consistency with Aaron's character:
-- Deliberate, measured approach to planning
-- Multi-month research mentality
-- Connection to father's inheritance (tools)
-- Quiet competitiveness (tracking execution)
-- Detail-oriented, revision-focused
-- Family priorities integrated throughout
-- Dry humor and honest assessment
-- Documentation for future reference
+The task reflects Aaron’s established personality traits:
+
+- Methodical and detail-oriented planner
+- Values craftsmanship and thoughtful preparation
+- Emotionally connected to using his late father’s tools
+- Balances hobbies, family responsibilities, and creative work
+- Prefers documentation and structured workflows over improvisation
+- Includes family naturally in long-term projects
+- Makes practical decisions based on time and budget constraints
 
 ## Submission Details
 
-**Category Selected**: home_and_organization  
-**Turns Provided**: 48 (Within 40-50 requirement)  
-**Files Included**: prompt.txt  
-**Format**: Plain text, natural conversation  
-**Status**: Ready for GitHub upload
+- **Category:** `home_and_organization`
+- **Turns:** 48 total
+- **Primary File:** `prompt.txt`
+- **Format:** Plain-text conversational prompts
+- **Status:** Ready for submission
 
-## Files in This Package
+## Files Included
 
-1. **prompt.txt** - Complete 48-turn conversation flow for the LHC task (47 turns + 1 final end prompt)
-2. **README.md** - This file with task documentation
+1. `prompt.txt` – Complete 48-turn conversation flow
+2. `README.md` – Task documentation and overview
 
 ## Author
 
-**Name**: Krishna Kumar  
-**Persona**: Aaron Delgado  
-**Project**: Talos SFT Data Collection - LHC Task
+**Krishna Kumar**
 
 ---
+
+Prepared for **Talos SFT Data Collection**.
